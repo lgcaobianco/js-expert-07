@@ -1,0 +1,21 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "keywords": [],
+  "author": "erickwendel",
+  "license": "MIT",
+  "description": "JSExpert Max Gesture Controller - Semana JS Expert 7.0",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
